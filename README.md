@@ -1,6 +1,6 @@
 #Basic Regression features
 
-##Stocka from quandl (WIKI/PRICES)
+##Stocks from quandl (WIKI/PRICES)
 
 **Predicting**
 
