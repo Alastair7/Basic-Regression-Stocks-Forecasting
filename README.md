@@ -1,10 +1,6 @@
-#Basic Regression features
+## Basic Regression features
+### Stocks from quandl (WIKI/PRICES)
 
-##Stocks from quandl (WIKI/PRICES)
+* **Predicting**
 
-**Predicting**
-
-**Forecasting**
-
-```Machine Learning(Baisc)
-```
+* **Forecasting**
